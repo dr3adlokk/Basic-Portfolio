@@ -50,3 +50,13 @@ a{
 footer {
 	background-color: #666666
 }
+
+.mailbox {
+    float: right;
+}
+
+#mailbox {
+    float: right;
+}
+#waterfall {
+    clear: both;

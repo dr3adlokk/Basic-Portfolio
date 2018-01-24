@@ -43,3 +43,11 @@ container {
 #bio-image {
     margin-right: 20px;
 }
+
+.scenery {
+    margin: 0 auto;
+}
+
+#waterfall {
+    clear: both;
+}
