@@ -1,19 +1,16 @@
 body {
-    background-color: #efffff;
+    background-color: #e7e5d5;
     margin: 0;
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
-	line-height: 150%;
-}
-body {
-	background-image: url('../images/vintage-concrete.png');
-	background-repeat: repeat;
+    line-height: 150%;
+
 }
 
 h1 {
-    color: #777777;
-    background-color: #efffff;
+    color: #efeee7;
+    background-color: #1a0101;
     margin: 0;
     text-align: center;
     padding-top: 20px;
@@ -22,7 +19,7 @@ h1 {
 }
 
 a{
-    color: #777777
+    color: #d21034
 }
 
 .container {
@@ -30,7 +27,7 @@ a{
     margin: 0 auto;
 }
 
-#main-bio, #Connect With Me,
+#main-bio, #contact-info,
 #bio-image {
     float: left;
 }
@@ -39,14 +36,10 @@ a{
 
 }
 
-#Connect With Me {
+#contact-info {
     width: 30%;
 }
 
 #bio-image {
     margin-right: 20px;
-}
-
-footer {
-	background-color: #666666
 }
